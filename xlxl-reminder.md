@@ -1,14 +1,14 @@
-# XLXL Critical Deadlines & Reminders
+# XLXL Critical Deadlines & Reminders (重要截止日期与提醒)
 
-## 🔴 High Priority (Immediate)
-- **2026-04-30**: Complete $150k cash transfer to tax-efficient accounts (SGOV/VCTXX).
-- **2026-04-30**: Adjust payroll W-4 (Extra Withholding) to avoid underpayment penalties.
+## 🔴 高优先级 (立即执行)
+- **2026-04-30**: 完成现金资产转移至高税务效率账户 (SGOV/VCTXX)。
+- **2026-04-30**: 调整工资单 W-4 (额外预扣额)，以规避欠税罚款。
 
-## 🟡 Medium Priority (Strategic)
-- **2026-06-30**: Verify "Mega Backdoor Roth" eligibility with HR/Benefits.
-- **2026-06-30**: Consolidate investment accounts (Webull/Tiger to Schwab/Fidelity).
+## 🟡 中优先级 (策略性任务)
+- **2026-06-30**: 向相关部门确认 "Mega Backdoor Roth" 参与资格。
+- **2026-06-30**: 整合不同平台的投资账户。
 
-## 🟢 Recurring / Long-term
-- **Quarterly**: Tax-Loss Harvesting review.
-- **Semi-Annually**: Re-evaluate Lease vs. Buy decision for 2026 housing move.
-- **Yearly (Dec)**: Final AGI check to ensure Safe Harbor rule compliance.
+## 🟢 循环/长期任务
+- **每季度**: 税损收割 (Tax-Loss Harvesting) 复核。
+- **每半年**: 针对年度住房变动进行“租房 vs 买房”决策评估。
+- **每年 (12月)**: 最终 AGI 复核，确保符合 Safe Harbor 安全港规则。
