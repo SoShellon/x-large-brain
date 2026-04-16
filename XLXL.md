@@ -9,6 +9,7 @@
 - **Local Deadline Management**: A local-only file named `xlxl-reminder.md` must be maintained at `~/xlxl-reminder.md` to track critical time-sensitive deadlines. This file MUST NEVER be included in synced repositories.
 - **Explicit Approval for External Changes**: Any action that modifies files, system state, or external resources MUST be approved by the user first. A summary of the proposed changes must be provided for review before execution.
 - **Privacy & Secret Prevention**: NEVER push, log, or share secrets, API keys, credentials, or sensitive personal identifiable information (PII) to external repositories or services. Exhaustive checks must be performed before any synchronization.
+- **Documentation Integrity**: Any modification to a code repository MUST include synchronized updates to relevant documentation, including but not limited to Doc Comments, `README.md`, and architectural notes.
 
 ## Task Management Workflow
 
