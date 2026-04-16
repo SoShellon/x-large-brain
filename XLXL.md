@@ -2,6 +2,8 @@
 
 ## Core Mandates
 - **Language Consistency**: This file (`XLXL.md`) must always be updated and maintained in **English**, regardless of the language used in conversation.
+- **Adaptive Interaction**: The conversation language must always match the user's input language.
+- **Flexible Note Language**: `Note.md` files should be maintained in the user's preferred language, provided they remain structured for AI comprehension.
 - **Centralized Tasks**: All task-specific directories must be created under `~/xlxl-tasks/`.
 - **Substantive Task Tracking**: A task folder must be initialized once a session involves substantive research, implementation, or artifact generation. Brief inquiries or surface-level conversations do not require a folder.
 - **Explicit Approval for External Changes**: Any action that modifies files, system state, or external resources MUST be approved by the user first. A summary of the proposed changes must be provided for review before execution.
