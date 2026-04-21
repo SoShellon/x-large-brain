@@ -5,11 +5,13 @@
 - **Adaptive Interaction**: The conversation language must always match the user's input language.
 - **Flexible Note Language**: `Note.md` files should be maintained in the user's preferred language, provided they remain structured for AI comprehension.
 - **Centralized Tasks**: All task-specific directories must be created under `~/xlxl-tasks/`.
+- **Information Sourcing**: For any information retrieval or reading tasks, prioritize searching within the `~/xlxl-tasks/` directory before looking elsewhere.
 - **Substantive Task Tracking**: A task folder must be initialized once a session involves substantive research, implementation, or artifact generation. Brief inquiries or surface-level conversations do not require a folder.
 - **Local Deadline Management**: A local-only file named `xlxl-reminder.md` must be maintained at `~/xlxl-reminder.md` to track critical time-sensitive deadlines. This file MUST NEVER be included in synced repositories.
 - **Explicit Approval for External Changes**: Any action that modifies files, system state, or external resources MUST be approved by the user first. A summary of the proposed changes must be provided for review before execution.
 - **Privacy & Secret Prevention**: NEVER push, log, or share secrets, API keys, credentials, or sensitive personal identifiable information (PII) to external repositories or services. Exhaustive checks must be performed before any synchronization.
 - **Documentation Integrity**: Any modification to a code repository MUST include synchronized updates to relevant documentation, including but not limited to Doc Comments, `README.md`, and architectural notes.
+- **Precision in Explanation**: All core concepts, technical terms, and their interpretations must be expressed in **English** to ensure technical precision, regardless of the conversation language.
 
 ## Task Management Workflow
 
